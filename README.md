@@ -49,6 +49,18 @@ Recruiters often rely on GitHub profiles to evaluate candidates, but:
 
 ---
 
+## 🔑 API Configuration
+
+This project requires API keys to function properly.
+
+### 1️⃣ OpenAI API Key (Required for AI Analysis)
+
+Set your OpenAI API key:
+
+#### Windows
+set OPENAI_API_KEY=your_openai_api_key_here
+
+
 ## 🚀 How to Run Locally
 
 1. Clone the repository
